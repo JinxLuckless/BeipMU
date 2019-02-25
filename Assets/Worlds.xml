@@ -182,12 +182,6 @@ Our goal is to provide a friendly environment for plot driven RP, encouraging pl
 <a href="http://marsilikos.wikidot.com/">Website</a>]]></description>
  <guest connect="connect guest"/>
 </world>
-<world name="Mythara: At the Crossroads" host="mythara.com:9900" encoding="CP1252" keywords="mux|horror|urban">
- <description><![CDATA[At the Crossroads is a Multi-User eXperience, a text-based role-playing game run via telnet. The game's theme is urban fantasy, set primarily in northern California. We welcome both original and feature characters, drawing on sources such as Buffy: The Vampire Slayer, Charmed, The Dresden Files, Highlander, Supernatural, and Teen Wolf.
-
-<a href="http://atcmux.wikia.com/wiki/At_the_Crossroads">Website</a>]]></description>
- <guest connect="connect guest"/>
-</world>
 <world name="Welcome to Lovecraft" host="LovecraftMa.com:1880" encoding="CP1252" keywords="mux|horror|urban">
  <description><![CDATA[Welcome to Lovecraft is a game of mortal horror set in the fictional island town of Lovecraft, Massachusetts. Players primarily take on the roles of high school and college students in a town where evil lurks and most adults can't see or remember it. We employ a modified version of the Slasher Flick system which emphasizes personal horror and cinematic narrative over stats and combat.
 
@@ -318,16 +312,6 @@ Aside from all of these delights, though, there is the darker side of Paradise t
 This game makes sure to emphasize just how dark the glorious beauty of Hawaii can be.
 
 <a href="http://www.tenebrousisles.com/wiki/Main_Page">Website</a> ]]></description>
- <guest connect="connect guest"/>
-</world>
-<world name="Mutant Genesis MUX" host="mutantgenesismux.com:2017" encoding="CP1252" keywords="mush|comic">
- <description><![CDATA[The world still remembers the Battle of Washington when dozens were killed, hundreds injured, and the Avengers were soundly defeated by the Apocalypse and his Four Horsemen. In the end, Mankind watched the X-Men openly take the field for the first time. In millions of homes there were images of Cyclops and Quicksilver, and all stood in silent awe.
-
-In Mutant Genesis MUX mutants are a new development in a world that barely knows their species but already fears it. The disciples of Magneto and believe humanity will draw first blood, while the X-Men believe that homo superior and sapiens can live together as brothers.
-
-Mission Statement: At Mutant Genesis MUX we want to write stories. Arcs will be provided by staff and players, and we want the decisions players make will heavily impact the setting. If the Scarlet Witch fails to stop Nitro from suicide bombing Mutant Town, we will be redescing that area of the grid. If Rogue drains Mr. Sinister's psyche, she will be changed by the experience. What you do matters in Mutant Genesis. (Marvel Universe, mutant-focused)
-
-<a href="http://mutantgenesismux.com/index.php/Main_Page">Website</a> ]]></description>
  <guest connect="connect guest"/>
 </world>
 <world name="Gods and Monsters MUX" host="mutantgenesismux.com:2017" encoding="CP1252" keywords="mush|comic">
